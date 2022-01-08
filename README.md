@@ -18,3 +18,7 @@ Usage:
 
 Have Fun!<br>
 BBB, 04-JUL-2021
+
+
+08-JAN-2021
+ * added a single line CSV output for scripting fun in Gig performer :-)
